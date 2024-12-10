@@ -1,15 +1,11 @@
 
 👋HOLA, MY NOMBRE ES  ROSA GUZMAN
-![Uploading image.png…]()
-
-
 
 YO SOY QA ENGINEER Junior y me gustaria me dieran la oprotunidad para seguir aprendiendo y desarrollandome en al area de las TI
 
 
 SKILLS
--PROACTIVAhttps://img.shields.io/badge/just%20the%20message-8A2BE2
-
+-PROACTIVA
 -COMPROMETIDA
 -TRABAJO EN EQUIPO
 -RESPONSABLE
