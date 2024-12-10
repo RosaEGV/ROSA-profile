@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on a  company as a QA Engineer junior
 
 --->Where do you find me?
-You can contact me for facebook mi link is  https://www.facebook.com/rosaevelin.guzmanvalencia?mibextid=ZbWKwL
+By email : evevale_2@hotmail.com
+also you can contact me for facebook mi link is  https://www.facebook.com/rosaevelin.guzmanvalencia?mibextid=ZbWKwL
 
