@@ -1,5 +1,7 @@
 
 👋HOLA, MY NOMBRE ES  ROSA GUZMAN
+![Uploading image.png…]()
+
 
 
 YO SOY QA ENGINEER Junior y me gustaria me dieran la oprotunidad para seguir aprendiendo y desarrollandome en al area de las TI
