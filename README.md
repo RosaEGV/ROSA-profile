@@ -40,6 +40,8 @@
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Android_Studio-6DB33F?style=for-the-badge&logo=SA&logoColor=black" alt="android-studio"/>
   </a>
+  <img decoding="async" src="https://img.shields.io/badge/JIRA-3776AB?style=for-the-badge&logo=JIRA&logoColor=white" alt="JIRA"/>
+  </a>
 
 -Postman
 -Selenium
