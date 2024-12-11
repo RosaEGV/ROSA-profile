@@ -1,7 +1,7 @@
 👋HOLA, MY NOMBRE ES  ROSA GUZMAN
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/RosaEGV/RosaEGV/blob/main/QA(2).png" width="800"/>
+  <img decoding="async" src="https://github.com/RosaEGV/RosaEGV/blob/main/QA (2).png" width="800"/>
 </div>
 
 
