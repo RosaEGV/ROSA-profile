@@ -48,11 +48,13 @@ SKILLS
 -TRABAJO EN EQUIPO
 -RESPONSABLE
 
+---
+ <div id="header" align="left">
 
+### :Donde puedes encontrarme?:
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-evelin-guzm%C3%A1n-valencia-735449333/
+)
 
---->Where do you find me?
-By email : evevale_2@hotmail.com
-By Linkedin:  https://www.linkedin.com/in/rosa-evelin-guzm%C3%A1n-valencia-735449333/
 
 also you can contact me for facebook mi link is  https://www.facebook.com/rosaevelin.guzmanvalencia?mibextid=ZbWKwL
 
