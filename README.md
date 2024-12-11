@@ -42,6 +42,8 @@
   </a>
   <img decoding="async" src="https://img.shields.io/badge/JIRA-3776AB?style=for-the-badge&logo=JIRA&logoColor=white" alt="JIRA"/>
   </a>
+  <img decoding="async" src="https://img.shields.io/badge/Selenium-3776AB?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
+  </a>
 
 -Postman
 -Selenium
