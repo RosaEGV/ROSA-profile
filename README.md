@@ -19,6 +19,7 @@
  👂 SOY QA ENGINEER Junior y me gustaria me dieran la oportunidad para seguir aprendiendo y desarrollandome en al area de las TI
 
 🤝Actualmente eh terminado mi bootcamp en TripleTen, por 5 meses eh aprendido ha realizar testeo en paginas Web y dispositivos moviles.
+
 🌱 Desarrolle un proyecto de automatizacion de testing  para una aplicacion web, con ayuda de Selenium
 
 🔭He trabajado tanto en back end como en front end para testeo de pruebas.
@@ -26,6 +27,10 @@
 ⚡Realice un proyecto de una aplicacion en la que se utilizaron tanto APIS como UI.
 
 ❤️Me encantaria descubrir nuevas formas de aprendizaje en el area de las TI
+
+---
+ <div id="header" align="left">
+
 
 LENGUAJES Y HERRAMIENTAS
 -PyCharm
