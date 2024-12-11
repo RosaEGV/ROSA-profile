@@ -37,6 +37,9 @@
   </a>
     <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Android_Studio-6DB33F?style=for-the-badge&logo=mysql&logoColor=black" alt="android-studio"/>
+  </a>
 
 -Postman
 -Selenium
