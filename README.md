@@ -44,11 +44,11 @@
   </a>
   <img decoding="async" src="https://img.shields.io/badge/Selenium-3776AB?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
   </a>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/Postman-6DB33F?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a
 
--Postman
--Selenium
--JIRA
--Studio Android
+
 
 ### :hammer_and_wrench:  SKILLS:
 -PROACTIVA
