@@ -46,18 +46,7 @@
   </a>
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Postman-6DB33F?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a
-
-
-
-
-### :hammer_and_wrench:  SKILLS:
-
-
--PROACTIVA
--COMPROMETIDA
--TRABAJO EN EQUIPO
--RESPONSABLE
+</div>
 
 ---
  <div id="header" align="left">
