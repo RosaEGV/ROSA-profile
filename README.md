@@ -50,7 +50,10 @@
 
 
 
+
 ### :hammer_and_wrench:  SKILLS:
+
+
 -PROACTIVA
 -COMPROMETIDA
 -TRABAJO EN EQUIPO
