@@ -49,7 +49,7 @@ SKILLS
 -RESPONSABLE
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RosaEGV&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaEGV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
  <div id="header" align="left">
