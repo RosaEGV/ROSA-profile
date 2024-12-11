@@ -49,6 +49,8 @@ SKILLS
 -TRABAJO EN EQUIPO
 -RESPONSABLE
 
+MIS ESTADISTICAS
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RosaEGV&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
