@@ -11,16 +11,18 @@
   Hola soy Rosa. ¡Gusto de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
- SOY QA ENGINEER Junior y me gustaria me dieran la oportunidad para seguir aprendiendo y desarrollandome en al area de las TI
+ 👂 SOY QA ENGINEER Junior y me gustaria me dieran la oportunidad para seguir aprendiendo y desarrollandome en al area de las TI
 
-- Actualmente eh terminado mi bootcamp en TripleTen, por 5 meses eh aprendido ha realizar testeo en paginas Web y dispositivos moviles.
-- Desarrolle un proyecto de automatizacion de testing  para una aplicacion web, con ayuda de Selenium
-- He trabajado tanto en back end como en front end para testeo de pruebas.
-- Realice un proyecto de una aplicacion en la que se utilizaron tanto APIS como UI.
+🤝Actualmente eh terminado mi bootcamp en TripleTen, por 5 meses eh aprendido ha realizar testeo en paginas Web y dispositivos moviles.
+🌱 Desarrolle un proyecto de automatizacion de testing  para una aplicacion web, con ayuda de Selenium
+🔭He trabajado tanto en back end como en front end para testeo de pruebas.
+⚡Realice un proyecto de una aplicacion en la que se utilizaron tanto APIS como UI.
+❤️Me encantaria descubrir nuevas formas de aprendizaje en el area de las TI
 
 LENGUAJES Y HERRAMIENTAS
 -PyCharm
