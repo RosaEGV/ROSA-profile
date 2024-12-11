@@ -5,6 +5,9 @@
 </div>
 
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosa-evelin-guzm%C3%A1n-valencia-735449333/
+)
+
 YO SOY QA ENGINEER Junior y me gustaria me dieran la oprotunidad para seguir aprendiendo y desarrollandome en al area de las TI
 
 - Actualmente eh terminado mi bootcamp en TripleTen, por 5 meses eh aprendido ha realizar testeo en paginas Web y dispositivos moviles.
